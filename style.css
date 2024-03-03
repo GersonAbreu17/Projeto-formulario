@@ -1,0 +1,30 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: lavender;
+}
+
+.titulo{
+    text-align: center;
+}
+
+.formulario {
+    margin: 0 auto;
+    max-width: 600px;
+    width: 90%;
+    color: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 5px 3px 5px black;
+    background-color: slategray;
+}
+
+.formulario div{
+    margin: 20px;
+}
+
+.alerta{
+    color: rgb(183, 0, 0);
+}
